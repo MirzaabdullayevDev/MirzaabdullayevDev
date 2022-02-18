@@ -1,6 +1,7 @@
 ![Web development](https://user-images.githubusercontent.com/99081177/154680447-9552a99b-90be-4b53-99d6-fd810d1f60e4.jpg)
 
-![Hi](https://user-images.githubusercontent.com/99081177/154681249-5fc285a4-8c81-4998-b157-d96f46d57028.gif)
+<!-- ![Hi](https://user-images.githubusercontent.com/99081177/154681249-5fc285a4-8c81-4998-b157-d96f46d57028.gif) -->
+<img src="https://user-images.githubusercontent.com/99081177/154681249-5fc285a4-8c81-4998-b157-d96f46d57028.gif" alt="gif" width="30">
 I’m a developer with experience in building websites for small and medium sized businesses. Whether you’re trying to win work, list your services or even create a whole online store – I can help!
 
 - 🔭 I’m currently working on Web development
